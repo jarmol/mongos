@@ -1,0 +1,1 @@
+mongod -v --nojournal --config /usr/local/etc/mongod.conf

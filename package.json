@@ -1,0 +1,15 @@
+{
+  "name": "mongos",
+  "version": "1.0.0",
+  "description": "testing mongo with node",
+  "main": "connecting.js",
+  "scripts": {
+    "test": "node connecting.js"
+  },
+  "keywords": [
+    "mongodb",
+    "node"
+  ],
+  "author": "mongodb.org",
+  "license": "ISC"
+}
