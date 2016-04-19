@@ -1,1 +1,1 @@
-mongod -v --nojournal --config /usr/local/etc/mongod.conf
+mongod -v --quiet --config /usr/local/etc/mongod.conf
